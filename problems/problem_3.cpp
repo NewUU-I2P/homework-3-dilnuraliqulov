@@ -8,7 +8,7 @@ if (s=="M"){
         result="Normal";
     else
         result="Tall";
-}else (s=="F"){
+}else(s=="F"){
     if (height<1.6)
         result="Short";
     else if (height>=1.6 && height<1.75)
