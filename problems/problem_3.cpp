@@ -19,5 +19,5 @@ if (s=="M"){
 }
     // use return to return your result
     // make use of control flow statements
-    return result;
 }
+return result;
